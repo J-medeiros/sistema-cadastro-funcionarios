@@ -26,7 +26,7 @@ polimorfismo**.
     -   `Suporte`\
         \> Cada classe sobrescreve os métodos de cálculo de acordo com
         suas regras específicas.
--   **Classe Principal:** `Principal`
+-   **Classe Main:** `Main`
     -   Responsável por instanciar os objetos, cadastrar os funcionários
         e exibir suas informações.
 
@@ -102,7 +102,7 @@ javac *.java
 4.  Execute o programa:\
 
 ``` bash
-java Principal
+java Main
 ```
 
 ------------------------------------------------------------------------
